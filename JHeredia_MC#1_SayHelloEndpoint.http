@@ -1,0 +1,6 @@
+@JHeredia_MC_1_SayHelloEndpoint_HostAddress = http://localhost:5077
+
+GET {{JHeredia_MC_1_SayHelloEndpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
